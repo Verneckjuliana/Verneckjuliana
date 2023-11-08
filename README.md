@@ -20,4 +20,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f72585&height=110&section=footer"/>
 
-![snake gif](https://github.com/Verneckjuliana/Verneckjuliana/blob/output/github-contribution-grid-snake.svg)
+<img
+		alt="Snake animation"
+		src="https://github.com/Verneckjuliana/Verneckjuliana/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+	/>
+	<img
+		alt="Snake animation"
+		src="https://github.com/Verneckjuliana/Verneckjuliana/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+	/>
